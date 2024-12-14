@@ -1,7 +1,7 @@
 <h1 align = "center">
   ProcessModule
 </h1>
-<h3 align = "center">Discord Account: 1236762994730471535</h1>
+<h3 align = "center">Discord Account (ID): 1236762994730471535</h1>
 <h3 align = "center">Exploits & Sources </h1>
 
 <h1 align = "center">
