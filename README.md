@@ -1,7 +1,6 @@
 <h1 align = "center">
   ProcessModule
 </h1>
-<h3 align = "center">Discord Account (ID): 1236762994730471535</h1>
 <h3 align = "center">Exploits & Sources </h1>
 
 <h1 align = "center">
@@ -14,4 +13,4 @@
   PSA
 </h1>
 
-**Please note** that I do not post my main sources or applications (.exe files) directly to my repositories. Instead, I share content that is generally of interest to the community or things that people commonly look for. If you're seeking a specific application that is not publicly available or if you're looking for an unreleased version, feel free to reach out to me directly. You can contact me through my Discord for any private or unshared applications (My Discord id is Above).
+**Please note** that I do not post my main sources or applications (.exe files) directly to my repositories. Instead, I share content that is generally of interest to the community or things that people commonly look for. If you're seeking a specific application that is not publicly available or if you're looking for an unreleased version, feel free to reach out to me directly.
